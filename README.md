@@ -15,14 +15,14 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 ├── dataset                                  # Dataset utilizado en este trabajo.
 |    └── turistas-no-residentes-serie.csv   
 ├── notebook                                 # Notebook ejecutado del análisis del datset.
-|    └── turismo_en_argentina.ipynb
+|    └── turismo_datacenter.ipynb
 ├── informe                                  # Informe académico que respalda las conclusiones obtenidas en la notebook.
 |    └── informe_final.pdf                     
 ├── ppt                                      # Apoyo visual para la defensa del trabajo.
 |     └── ppt_para_la_clase
 └── notas_del_grupo                          # Bocetos y notas de apoyo que usó el grupo antes de llevarlo al trabajo final.
       ├── Cronograma_Trabajo.md
-      └── POSIBLES PREGUNTAS.docx                                    
+      └── posibles_preguntas.md                                    
 ```
 ## Integrantes del grupo 
 👩🏻‍💻 Altamirano Ileana, registro: 922518.<br>
