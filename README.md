@@ -1,5 +1,5 @@
 # ¡El Turismo está de vuelta! 🛬 
-###### _¿Cuántas personas eligen Argentina como destino turístico?_
+###### _¿Cómo evolucionó el turismo no residente en Argentina en los últimos años?_
 Repositorio académico que busca analizar la evolución del turismo en Argentina en los últimos años, comparando momentos de mayor relevancia turística.
 #
 ###### _Materia: Laboratorio de Métodos Cuantitativos Aplicados a la Gestión._
@@ -27,7 +27,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 ## Integrantes del grupo 
 👩🏻‍💻 Altamirano Ileana, registro: 922518.<br>
 👩🏻‍💻 Sari Chiba, registro: 922474. <br>
-👩🏻‍💻 Noelia Rodriguez, registro: <br>
+👩🏻‍💻 Noelia Rodriguez, registro: 922237 <br>
 👩🏻‍💻 Erika Vallejos, registro: <br>
 
 #
