@@ -28,7 +28,7 @@ Repositorio académico que busca analizar la evolución del turismo en Argentina
 👩🏻‍💻 Altamirano Ileana, registro: 922518.<br>
 👩🏻‍💻 Sari Chiba, registro: 922474. <br>
 👩🏻‍💻 Noelia Rodriguez, registro: 922237 <br>
-👩🏻‍💻 Erika Vallejos, registro: <br>
+👩🏻‍💻 Erika Vallejos, registro: 922313 <br>
 
 #
 #### Origen de los datos
