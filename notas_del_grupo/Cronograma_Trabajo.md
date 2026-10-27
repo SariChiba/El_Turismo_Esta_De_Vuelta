@@ -16,11 +16,11 @@
 1. ~Carga del dataset en un df de pandas.~<br>
 2. ~Mostrar primeras filas (.head()) y últimas filas (.tail()).~<br>
 3. ~Verificamos dimensiones del df (.shape).~<br>
-4. Inspeccionamos con .info antes de ponernos mas descriptivos.<br>
+4. ~Inspeccionamos con .info antes de ponernos mas descriptivos.~<br>
 5. ~Verificamos el tipo de datos en las columnas (.dtypes).~<br>
 6. ~Verificar cobertura temporal (fecha inicio-fin de los datos).~<br>
-7. Contabilizar valores nulos (.isnull().sum()).<br>
-8. Contabilizar duplicados (df.duplicated().sum()).<br>
+7. ~Contabilizar valores nulos (.isnull().sum()).~<br>
+8. ~Contabilizar duplicados (df.duplicated().sum()).~<br>
 9. ~Mostrar estadística descriptiva (.describe()).~<br>
 ### Parte 2:<br>
 1. Definir de forma escrita la pregunta que guía el resto del analisis.<br>
